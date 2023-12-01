@@ -1,0 +1,267 @@
+﻿country,country_code,gini
+Slovak Republic,SVK,24.1
+Slovenia,SVN,24.33333333
+Belarus,BLR,24.96666667
+Czechia,CZE,25.5
+Moldova,MDA,25.8
+United Arab Emirates,ARE,26
+Iceland,ISL,26.1
+Ukraine,UKR,26.1
+Azerbaijan,AZE,26.6
+Belgium,BEL,26.8
+Finland,FIN,27.36666667
+Algeria,DZA,27.6
+Norway,NOR,27.65
+Netherlands,NLD,27.76666667
+Denmark,DNK,27.8
+Kazakhstan,KAZ,27.8
+Kiribati,KIR,27.8
+Bhutan,BTN,28.5
+Timor-Leste,TLS,28.7
+Kyrgyz Republic,KGZ,28.8
+Kosovo,XKX,29
+Maldives,MDV,29.3
+Armenia,ARM,29.35
+Croatia,HRV,29.36666667
+Sweden,SWE,29.4
+Poland,POL,29.5
+Iraq,IRQ,29.5
+Guinea,GIN,29.6
+Pakistan,PAK,29.6
+Hungary,HUN,29.76666667
+Albania,ALB,29.86666667
+Ireland,IRL,30.2
+Austria,AUT,30.26666667
+Malta,MLT,30.36666667
+Estonia,EST,30.6
+Fiji,FJI,30.7
+Myanmar,MMR,30.7
+"Korea, Rep.",KOR,31.4
+France,FRA,31.43333333
+Germany,DEU,31.75
+Bangladesh,BGD,31.8
+Lebanon,LBN,31.8
+Cyprus,CYP,31.86666667
+"Egypt, Arab Rep.",EGY,31.9
+Canada,CAN,32.1
+Seychelles,SYC,32.1
+Vanuatu,VUT,32.3
+Nauru,NRU,32.4
+Mauritania,MRT,32.6
+Mongolia,MNG,32.7
+Nepal,NPL,32.8
+Tunisia,TUN,32.8
+Japan,JPN,32.9
+Bosnia and Herzegovina,BIH,33
+United Kingdom,GBR,33.03333333
+Switzerland,CHE,33.1
+Greece,GRC,33.2
+North Macedonia,MKD,33.25
+Tonga,TON,33.5
+Portugal,PRT,33.66666667
+Jordan,JOR,33.7
+West Bank and Gaza,PSE,33.7
+Tajikistan,TJK,34
+Sudan,SDN,34.2
+Australia,AUS,34.3
+Luxembourg,LUX,34.33333333
+Spain,ESP,34.63333333
+India,IND,34.65
+Guinea-Bissau,GNB,34.8
+Serbia,SRB,34.83333333
+Ethiopia,ETH,35
+Italy,ITA,35
+Romania,ROU,35.06666667
+Latvia,LVA,35.1
+Nigeria,NGA,35.1
+Georgia,GEO,35.25
+Liberia,LBR,35.3
+Uzbekistan,UZB,35.3
+Thailand,THA,35.35
+Marshall Islands,MHL,35.5
+Lithuania,LTU,35.66666667
+Sierra Leone,SLE,35.7
+Mali,MLI,36
+Viet Nam,VNM,36.25
+"Yemen, Rep.",YEM,36.7
+Montenegro,MNE,36.8
+Mauritius,MUS,36.8
+Russian Federation,RUS,37.06666667
+Solomon Islands,SLB,37.1
+Cote d'Ivoire,CIV,37.2
+Niger,NER,37.3
+Kenya,KEN,37.45
+Chad,TCD,37.5
+Syrian Arab Republic,SYR,37.5
+Sri Lanka,LKA,37.7
+Indonesia,IDN,37.88
+Benin,BEN,37.9
+China,CHN,37.93333333
+Gabon,GAB,38
+Senegal,SEN,38.3
+Malawi,MWI,38.5
+Israel,ISR,38.6
+Burundi,BDI,38.6
+Samoa,WSM,38.7
+"Gambia, The",GMB,38.8
+Lao PDR,LAO,38.8
+El Salvador,SLV,38.8
+Tuvalu,TUV,39.1
+Morocco,MAR,39.5
+Uruguay,URY,40.1
+"Micronesia, Fed. Sts.",FSM,40.1
+Trinidad and Tobago,TTO,40.3
+Tanzania,TZA,40.5
+United States,USA,40.6
+Bulgaria,BGR,40.7
+Sao Tome and Principe,STP,40.7
+Turkmenistan,TKM,40.8
+Dominican Republic,DOM,40.925
+Haiti,HTI,41.1
+Malaysia,MYS,41.2
+"Iran, Islamic Rep.",IRN,41.45
+Philippines,PHL,41.5
+Djibouti,DJI,41.6
+Turkiye,TUR,41.9
+Papua New Guinea,PNG,41.9
+Peru,PER,42
+"Congo, Dem. Rep.",COD,42.1
+Argentina,ARG,42.125
+Bolivia,BOL,42.175
+Cabo Verde,CPV,42.4
+Togo,TGO,42.5
+Madagascar,MDG,42.6
+Uganda,UGA,42.7
+Burkina Faso,BFA,43
+Central African Republic,CAF,43
+Ghana,GHA,43.5
+Rwanda,RWA,43.7
+South Sudan,SSD,44.1
+Paraguay,PRY,44.64
+"Venezuela, RB",VEN,44.8
+Chile,CHL,44.9
+Lesotho,LSO,44.9
+Guyana,GUY,45.1
+Comoros,COM,45.3
+Jamaica,JAM,45.5
+Ecuador,ECU,45.94
+Mexico,MEX,46.05
+Nicaragua,NIC,46.2
+Cameroon,CMR,46.6
+Costa Rica,CRI,48.26
+Guatemala,GTM,48.3
+Honduras,HND,48.55
+"Congo, Rep.",COG,48.9
+Panama,PAN,49.96666667
+Zimbabwe,ZWE,50.3
+Mozambique,MOZ,50.5
+St. Lucia,LCA,51.2
+Angola,AGO,51.3
+Colombia,COL,51.675
+Brazil,BRA,52.3
+Belize,BLZ,53.3
+Botswana,BWA,53.3
+Eswatini,SWZ,54.6
+Zambia,ZMB,55.9
+Suriname,SUR,57.9
+Namibia,NAM,59.1
+South Africa,ZAF,63
+Aruba,ABW,n/a
+Africa Eastern and Southern,AFE,n/a
+Afghanistan,AFG,n/a
+Africa Western and Central,AFW,n/a
+Andorra,AND,n/a
+Arab World,ARB,n/a
+American Samoa,ASM,n/a
+Antigua and Barbuda,ATG,n/a
+Bahrain,BHR,n/a
+"Bahamas, The",BHS,n/a
+Bermuda,BMU,n/a
+Barbados,BRB,n/a
+Brunei Darussalam,BRN,n/a
+Central Europe and the Baltics,CEB,n/a
+Channel Islands,CHI,n/a
+Caribbean small states,CSS,n/a
+Cuba,CUB,n/a
+Curacao,CUW,n/a
+Cayman Islands,CYM,n/a
+Dominica,DMA,n/a
+East Asia & Pacific (excluding high income),EAP,n/a
+Early-demographic dividend,EAR,n/a
+East Asia & Pacific,EAS,n/a
+Europe & Central Asia (excluding high income),ECA,n/a
+Europe & Central Asia,ECS,n/a
+Euro area,EMU,n/a
+Eritrea,ERI,n/a
+European Union,EUU,n/a
+Fragile and conflict affected situations,FCS,n/a
+Faroe Islands,FRO,n/a
+Gibraltar,GIB,n/a
+Equatorial Guinea,GNQ,n/a
+Grenada,GRD,n/a
+Greenland,GRL,n/a
+Guam,GUM,n/a
+High income,HIC,n/a
+"Hong Kong SAR, China",HKG,n/a
+Heavily indebted poor countries (HIPC),HPC,n/a
+IBRD only,IBD,n/a
+IDA & IBRD total,IBT,n/a
+IDA total,IDA,n/a
+IDA blend,IDB,n/a
+IDA only,IDX,n/a
+Isle of Man,IMN,n/a
+Not classified,INX,n/a
+Cambodia,KHM,n/a
+St. Kitts and Nevis,KNA,n/a
+Kuwait,KWT,n/a
+Latin America & Caribbean (excluding high income),LAC,n/a
+Libya,LBY,n/a
+Latin America & Caribbean,LCN,n/a
+Least developed countries: UN classification,LDC,n/a
+Low income,LIC,n/a
+Liechtenstein,LIE,n/a
+Lower middle income,LMC,n/a
+Low & middle income,LMY,n/a
+Late-demographic dividend,LTE,n/a
+"Macao SAR, China",MAC,n/a
+St. Martin (French part),MAF,n/a
+Monaco,MCO,n/a
+Middle East & North Africa,MEA,n/a
+Middle income,MIC,n/a
+Middle East & North Africa (excluding high income),MNA,n/a
+Northern Mariana Islands,MNP,n/a
+North America,NAC,n/a
+New Caledonia,NCL,n/a
+New Zealand,NZL,n/a
+OECD members,OED,n/a
+Oman,OMN,n/a
+Other small states,OSS,n/a
+Palau,PLW,n/a
+Pre-demographic dividend,PRE,n/a
+Puerto Rico,PRI,n/a
+"Korea, Dem. People's Rep.",PRK,n/a
+Pacific island small states,PSS,n/a
+Post-demographic dividend,PST,n/a
+French Polynesia,PYF,n/a
+Qatar,QAT,n/a
+South Asia,SAS,n/a
+Saudi Arabia,SAU,n/a
+Singapore,SGP,n/a
+San Marino,SMR,n/a
+Somalia,SOM,n/a
+Sub-Saharan Africa (excluding high income),SSA,n/a
+Sub-Saharan Africa,SSF,n/a
+Small states,SST,n/a
+Sint Maarten (Dutch part),SXM,n/a
+Turks and Caicos Islands,TCA,n/a
+East Asia & Pacific (IDA & IBRD countries),TEA,n/a
+Europe & Central Asia (IDA & IBRD countries),TEC,n/a
+Latin America & the Caribbean (IDA & IBRD countries),TLA,n/a
+Middle East & North Africa (IDA & IBRD countries),TMN,n/a
+South Asia (IDA & IBRD),TSA,n/a
+Sub-Saharan Africa (IDA & IBRD countries),TSS,n/a
+Upper middle income,UMC,n/a
+St. Vincent and the Grenadines,VCT,n/a
+British Virgin Islands,VGB,n/a
+Virgin Islands (U.S.),VIR,n/a
+World,WLD,n/a
