@@ -16,7 +16,6 @@ Key questions include:
 
 
 ## Data Sets
-Data Sources:
 _EPI 2022 | Yale Center for Environmental Law and Policy - YCELP - Yale University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2022. 2022 Environmental Performance Index (EPI). Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/dwt2-9k25._  
 _Gini | World Bank Poverty and Inequality Platform (2022) OurWorldInData.org/economic-inequality._  
 _Country population | World Bank Data Catalog 2022 https://data.worldbank.org/indicator/SP.POP.TOTL._  
