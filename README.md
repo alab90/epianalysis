@@ -14,6 +14,8 @@ Key questions include:
 +_How does a country's population impact it's EPI score?_  
 +_What are some of the policies or practices of the top performing countries that could potentially be applied by lower performing countries?_  
 
+## Tableau Storyboard
+https://public.tableau.com/app/profile/april.labaro/viz/EPIAnalysis/EPIAnalysis
 
 ## Data Sets
 _EPI 2022 | Yale Center for Environmental Law and Policy - YCELP - Yale University, and Center for International Earth Science Information Network - CIESIN - Columbia University. 2022. 2022 Environmental Performance Index (EPI). Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/dwt2-9k25._  
